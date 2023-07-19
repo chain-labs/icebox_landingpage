@@ -7,9 +7,9 @@ import {ChevronLeft8} from '../../icons/ChevronLeft8';
 import {ChevronRight12} from '../../icons/ChevronRight12';
 import './style.css';
 
-export const Wip = () => {
+export const Desktop = () => {
 	return (
-		<div className="wip">
+		<div className="desktop">
 			<div className="div">
 				<div className="frame">
 					<div className="frame-2">
@@ -30,34 +30,30 @@ export const Wip = () => {
 						<div className="frame-6">
 							<div className="group">
 								<div className="column">
-									<div>
-										<div className="hyperlink-wrapper">
-											<div className="hyperlink">
-												<div className="frame-7">
-													<img
-														className="rectangle"
-														alt="Rectangle"
-														src="/img/rectangle-1886.png"
-													/>
-													<div className="frame-8">
-														<div className="text-wrapper-2">
-															Lending against
-														</div>
-														<div className="text-wrapper-3">Degods #2048</div>
-													</div>
-												</div>
-												<Loader
-													className="loader-instance"
-													loader="/img/loader.svg"
+									<div className="hyperlink-wrapper">
+										<div className="hyperlink">
+											<div className="frame-7">
+												<img
+													className="rectangle"
+													alt="Rectangle"
+													src="/img/rectangle-1886.png"
 												/>
+												<div className="frame-8">
+													<div className="text-wrapper-2">Lending against</div>
+													<div className="text-wrapper-3">Degods #2048</div>
+												</div>
 											</div>
+											<Loader
+												className="loader-instance"
+												loader="/img/loader.svg"
+											/>
 										</div>
-										{/* <img
-											className="vector"
-											alt="Vector"
-											src="/img/vector-110.png"
-										/> */}
 									</div>
+									<img
+										className="vector"
+										alt="Vector"
+										src="/img/vector-110.png"
+									/>
 								</div>
 							</div>
 							<div className="frame-9">
@@ -131,7 +127,7 @@ export const Wip = () => {
 							<img
 								className="frame-19"
 								alt="Frame"
-								src="/img/frame-9.svg"
+								src="/img/frame-9.png"
 							/>
 						</div>
 						<Button

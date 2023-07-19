@@ -7,12 +7,6 @@
   width: fit-content;
 }
 
-.button .instance-node {
-  height: 20px !important;
-  min-width: 20px !important;
-  position: relative !important;
-}
-
 .button .label {
   font-family: var(--label-small-font-family);
   font-size: var(--label-small-font-size);
@@ -129,7 +123,6 @@
   border: 1px solid;
   border-color: transparent;
   border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0)) 1;
-  box-shadow: var(--form-button-primary-normal);
 }
 
 .button.pressed.primary {
@@ -179,6 +172,18 @@
 
 .button.pressed.on.primary {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.16) 100%);
+}
+
+.button.normal.large.primary {
+  box-shadow: var(--form-button-primary-normal);
+}
+
+.button.off.normal.primary {
+  box-shadow: var(--form-button-primary-normal);
+}
+
+.button.on.normal.normal.primary {
+  box-shadow: 0px 0px 0px 1px #4f47ea, 0px 1px 2px #1913a180;
 }
 
 .button.pressed.off.normal.primary {
