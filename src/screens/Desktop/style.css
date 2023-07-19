@@ -120,20 +120,19 @@
   align-items: flex-start;
   background-color: #ffffff;
   border-radius: 10px;
-  box-shadow: 0px 0px 0px 7px #3661f9d9, 0px 0px 0px 5px #f8fafb, 0px 0px 0px 3px #7794fa, 0px 0px 0px 1px #f8fafb;
+  /* box-shadow: 0px 0px 0px 7px #3661f9d9, 0px 0px 0px 5px #f8fafb, 0px 0px 0px 3px #7794fa, 0px 0px 0px 1px #f8fafb; */
   display: flex;
   flex-direction: column;
   overflow: hidden;
   position: relative;
   width: 233px;
+  border:2px solid rgba(54, 97, 249, 0.85)
 }
 
 .desktop .hyperlink-wrapper {
   align-items: flex-start;
   align-self: stretch;
-  border: 1px solid;
   border-color: #00000014;
-  border-radius: 10px;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -141,6 +140,8 @@
   justify-content: center;
   padding: 12px 10px;
   position: relative;
+  
+  
 }
 
 .desktop .hyperlink {
@@ -211,14 +212,14 @@
   width: unset !important;
 }
 
-.desktop .vector {
+/* .desktop .vector {
   align-self: stretch;
   height: 1px;
   margin-right: -330px;
   min-width: 233px;
   object-fit: cover;
   position: relative;
-}
+} */ */
 
 .desktop .frame-9 {
   align-items: flex-start;
@@ -2110,3 +2111,86 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   position: absolute !important;
   top: 642px !important;
 }
+
+@media (prefers-color-scheme: dark) {
+  .wip{
+    background-color: #000000;
+  }
+  .wip .div{
+    background-color: #000000;
+
+  }
+  .wip .div-wrapper{
+    background-color: #000000;
+
+  }
+  .wip .text-wrapper{
+    color: var(--textwhite)
+  }
+  .wip .frame-6{
+    border: 1px solid #202020;
+background: #171717;
+  }
+  .wip .column{
+    background-color: transparent;
+  }
+  .wip .text-wrapper-3{
+    color:#FCFCFC
+  }
+  .wip .frame-11{
+    background: #171717;
+    border: 1px solid #202020;
+  }
+  .wip .frame-15{
+  background: #171717;
+  }
+  .wip .text-wrapper-8{
+    color: #FCFCFC;
+  }
+  .wip .text-wrapper-6{
+    color: #FCFCFC;
+  }
+  .wip .text-wrapper-10{
+    color: #FCFCFC;
+  }
+
+  .wip .text-wrapper-4{
+    color: #FCFCFC;
+  }
+  .wip .div-wrapper{
+    background: #1D1D1F;
+  }
+  .wip .frame-13{
+    background: #1D1D1F;
+  }
+  .wip .text-wrapper-17{
+    color: var(--textwhite)
+  }
+  .wip .frame-24{
+    border-radius: 0px 0px 20px 20px;
+background: #202020;
+backdrop-filter: blur(12px);
+  }
+  .wip .text-wrapper-18{
+    color: #FCFCFC
+  }
+
+  .wip .text-wrapper-20{
+
+    color: #FCFCFC
+  }
+
+  .wip .text-wrapper-21{
+
+    color: #FCFCFC
+  }
+
+  .wip .frame-18{
+    border: 1px solid #202020;
+background: #171717;
+backdrop-filter: blur(12px);
+  }
+
+}
+
+
