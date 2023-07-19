@@ -219,7 +219,7 @@
   min-width: 233px;
   object-fit: cover;
   position: relative;
-} */ */
+} */ 
 
 .desktop .frame-9 {
   align-items: flex-start;
@@ -787,7 +787,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   align-items: flex-start;
   display: flex;
   gap: 16px;
-  overflow-x: scroll;
+  /* overflow-x: scroll; */
   position: relative;
   width: 1320px;
 }

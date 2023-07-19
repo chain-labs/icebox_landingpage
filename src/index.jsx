@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOMClient from 'react-dom/client';
-import {Wip} from './screens/Wip';
 import {Iphone} from './screens/Iphone/Iphone';
 import App from './app';
 
