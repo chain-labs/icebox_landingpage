@@ -1,0 +1,1 @@
+export { TypeCheckedStateHoverLabelFalse } from "./TypeCheckedStateHoverLabelFalse";
