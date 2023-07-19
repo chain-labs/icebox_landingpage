@@ -1,4 +1,4 @@
-.wip {
+.desktop {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.wip .div {
+.desktop .div {
   background-color: var(--backgroundwhite);
   border: 1px none;
   height: 2000px;
@@ -15,7 +15,7 @@
   width: 1440px;
 }
 
-.wip .frame {
+.desktop .frame {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,7 @@
   width: fit-content;
 }
 
-.wip .frame-2 {
+.desktop .frame-2 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -36,7 +36,7 @@
   width: 700px;
 }
 
-.wip .frame-3 {
+.desktop .frame-3 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -46,7 +46,7 @@
   position: relative;
 }
 
-.wip .frame-wrapper {
+.desktop .frame-wrapper {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -55,7 +55,7 @@
   position: relative;
 }
 
-.wip .frame-4 {
+.desktop .frame-4 {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -64,7 +64,7 @@
   position: relative;
 }
 
-.wip .text-wrapper {
+.desktop .text-wrapper {
   color: var(--neutralblack);
   font-family: "Inter", Helvetica;
   font-size: 48px;
@@ -77,7 +77,7 @@
   width: 561px;
 }
 
-.wip .p {
+.desktop .p {
   color: var(--textnormal-500);
   font-family: "Inter", Helvetica;
   font-size: 18px;
@@ -90,7 +90,7 @@
   width: 494px;
 }
 
-.wip .frame-5 {
+.desktop .frame-5 {
   align-items: flex-start;
   display: flex;
   gap: 16px;
@@ -98,7 +98,7 @@
   width: fit-content;
 }
 
-.wip .frame-6 {
+.desktop .frame-6 {
   background-color: #f8f9fb;
   border: 1px solid;
   border-color: #eceff3;
@@ -108,7 +108,7 @@
   position: relative;
 }
 
-.wip .group {
+.desktop .group {
   height: 48px;
   left: 19px;
   position: absolute;
@@ -116,7 +116,7 @@
   width: 233px;
 }
 
-.wip .column {
+.desktop .column {
   align-items: flex-start;
   background-color: #ffffff;
   border-radius: 10px;
@@ -128,7 +128,7 @@
   width: 233px;
 }
 
-.wip .hyperlink-wrapper {
+.desktop .hyperlink-wrapper {
   align-items: flex-start;
   align-self: stretch;
   border: 1px solid;
@@ -143,7 +143,7 @@
   position: relative;
 }
 
-.wip .hyperlink {
+.desktop .hyperlink {
   align-items: center;
   align-self: stretch;
   display: flex;
@@ -153,7 +153,7 @@
   position: relative;
 }
 
-.wip .frame-7 {
+.desktop .frame-7 {
   align-items: center;
   display: flex;
   gap: 8px;
@@ -161,14 +161,14 @@
   width: fit-content;
 }
 
-.wip .rectangle {
+.desktop .rectangle {
   height: 32px;
   min-width: 32px;
   object-fit: cover;
   position: relative;
 }
 
-.wip .frame-8 {
+.desktop .frame-8 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -177,7 +177,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-2 {
+.desktop .text-wrapper-2 {
   color: #666d80;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -190,7 +190,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-3 {
+.desktop .text-wrapper-3 {
   color: var(--gray-900);
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -202,7 +202,7 @@
   width: fit-content;
 }
 
-.wip .loader-instance {
+.desktop .loader-instance {
   height: 24px !important;
   left: unset !important;
   min-width: 24px !important;
@@ -211,7 +211,7 @@
   width: unset !important;
 }
 
-.wip .vector {
+.desktop .vector {
   align-self: stretch;
   height: 1px;
   margin-right: -330px;
@@ -220,7 +220,7 @@
   position: relative;
 }
 
-.wip .frame-9 {
+.desktop .frame-9 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -231,7 +231,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-4 {
+.desktop .text-wrapper-4 {
   color: var(--textmuted-600);
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -244,7 +244,7 @@
   width: 233px;
 }
 
-.wip .text-wrapper-5 {
+.desktop .text-wrapper-5 {
   color: var(--textnormal-500);
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -255,7 +255,7 @@
   width: 233px;
 }
 
-.wip .frame-10 {
+.desktop .frame-10 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -264,7 +264,7 @@
   width: fit-content;
 }
 
-.wip .frame-11 {
+.desktop .frame-11 {
   background-color: #f8f9fb;
   border: 1px solid;
   border-color: #eceff3;
@@ -274,7 +274,7 @@
   position: relative;
 }
 
-.wip .frame-12 {
+.desktop .frame-12 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -285,7 +285,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-6 {
+.desktop .text-wrapper-6 {
   color: var(--textmuted-600);
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -298,7 +298,7 @@
   width: 368px;
 }
 
-.wip .text-wrapper-7 {
+.desktop .text-wrapper-7 {
   color: var(--textnormal-500);
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -309,7 +309,7 @@
   width: 368px;
 }
 
-.wip .overlap-group {
+.desktop .overlap-group {
   height: 35px;
   left: 20px;
   position: absolute;
@@ -317,7 +317,7 @@
   width: 280px;
 }
 
-.wip .div-wrapper {
+.desktop .div-wrapper {
   align-items: flex-start;
   background-color: #ffffff;
   border-radius: 7px;
@@ -331,7 +331,7 @@
   width: fit-content;
 }
 
-.wip .frame-13 {
+.desktop .frame-13 {
   align-items: center;
   background-color: #e2e2e233;
   border-radius: 4px;
@@ -344,13 +344,13 @@
   width: fit-content;
 }
 
-.wip .img {
+.desktop .img {
   height: 16.69px;
   min-width: 17px;
   position: relative;
 }
 
-.wip .text-wrapper-8 {
+.desktop .text-wrapper-8 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -363,7 +363,7 @@
   width: fit-content;
 }
 
-.wip .line {
+.desktop .line {
   height: 1px;
   left: 87px;
   object-fit: cover;
@@ -372,7 +372,7 @@
   width: 193px;
 }
 
-.wip .frame-14 {
+.desktop .frame-14 {
   align-items: center;
   background-color: #d3ffd7;
   border-radius: 20px;
@@ -386,7 +386,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-9 {
+.desktop .text-wrapper-9 {
   color: #36a443;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -399,7 +399,7 @@
   width: fit-content;
 }
 
-.wip .frame-15 {
+.desktop .frame-15 {
   align-items: flex-start;
   background-color: #ffffff;
   border-radius: 7px;
@@ -413,13 +413,13 @@
   width: fit-content;
 }
 
-.wip .img-2 {
+.desktop .img-2 {
   height: 16px;
   min-width: 16px;
   position: relative;
 }
 
-.wip .frame-16 {
+.desktop .frame-16 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -430,7 +430,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-10 {
+.desktop .text-wrapper-10 {
   color: var(--textmuted-600);
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -443,7 +443,7 @@
   width: fit-content;
 }
 
-.wip .text-wrapper-11 {
+.desktop .text-wrapper-11 {
   color: var(--textnormal-500);
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -455,7 +455,7 @@
   width: fit-content;
 }
 
-.wip .frame-17 {
+.desktop .frame-17 {
   height: 66px;
   left: 17px;
   position: absolute;
@@ -463,7 +463,7 @@
   width: 375px;
 }
 
-.wip .frame-18 {
+.desktop .frame-18 {
   -webkit-backdrop-filter: blur(24px) brightness(100%);
   align-items: center;
   backdrop-filter: blur(24px) brightness(100%);
@@ -481,7 +481,7 @@
   width: 1442px;
 }
 
-.wip .div-2 {
+.desktop .div-2 {
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -489,7 +489,7 @@
   width: 1320px;
 }
 
-.wip .left {
+.desktop .left {
   align-items: center;
   display: flex;
   gap: 32px;
@@ -498,18 +498,18 @@
   width: fit-content;
 }
 
-.wip .frame-19 {
+.desktop .frame-19 {
   height: 25.66px;
   min-width: 127px;
   position: relative;
 }
 
-.wip .button-instance {
+.desktop .button-instance {
   border-radius: 26px !important;
   opacity: 0 !important;
 }
 
-.wip .design-component-instance-node {
+.desktop .design-component-instance-node {
   font-family: var(--text-t4-font-family) !important;
   font-size: var(--text-t4-font-size) !important;
   font-style: var(--text-t4-font-style) !important;
@@ -518,7 +518,7 @@
   line-height: var(--text-t4-line-height) !important;
 }
 
-.wip .overlap-wrapper {
+.desktop .overlap-wrapper {
   border: 3px solid;
   border-color: #3553f240;
   border-radius: 10px;
@@ -530,13 +530,13 @@
   width: 706px;
 }
 
-.wip .overlap {
+.desktop .overlap {
   height: 302px;
   position: relative;
   width: 717px;
 }
 
-.wip .rectangle-2 {
+.desktop .rectangle-2 {
   position: relative;
   /* left: ; */
   width: 700px;
@@ -547,7 +547,7 @@ border-radius: 10px;
 background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.00) 100%), #3351F2;
 }
 
-.wip .frame-20 {
+.desktop .frame-20 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -558,7 +558,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-12 {
+.desktop .text-wrapper-12 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 24px;
@@ -570,7 +570,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 294px;
 }
 
-.wip .text-wrapper-13 {
+.desktop .text-wrapper-13 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -582,7 +582,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 242px;
 }
 
-.wip .slice {
+.desktop .slice {
   background-color: #ffffff40;
   border-color: transparent;
   border-image: linear-gradient(to bottom, rgba(250.76, 251.25, 253.94, 0.92), rgba(255, 255, 255, 0)) 1;
@@ -594,7 +594,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 369px;
 }
 
-.wip .slice-2 {
+.desktop .slice-2 {
   height: 243px;
   left: 355px;
   object-fit: cover;
@@ -603,7 +603,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 345px;
 }
 
-.wip .overlap-group-wrapper {
+.desktop .overlap-group-wrapper {
   height: 50px;
   left: 150px;
   position: absolute;
@@ -611,13 +611,13 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 142px;
 }
 
-.wip .overlap-group-2 {
+.desktop .overlap-group-2 {
   height: 51px;
   position: relative;
   width: 143px;
 }
 
-.wip .cursor {
+.desktop .cursor {
   height: 28px;
   left: 0;
   position: absolute;
@@ -625,7 +625,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 27px;
 }
 
-.wip .comment {
+.desktop .comment {
   align-items: center;
   background-color: #f6f4ff;
   border: 1px solid;
@@ -642,7 +642,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-14 {
+.desktop .text-wrapper-14 {
   color: #3855f2;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -654,21 +654,21 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .twenty-four {
+.desktop .twenty-four {
   height: 46px !important;
   left: 40px !important;
   top: 194px !important;
   width: 47px !important;
 }
 
-.wip .thirty-seven {
+.desktop .thirty-seven {
   height: 37px !important;
   left: 24px !important;
   top: 173px !important;
   width: 48px !important;
 }
 
-.wip .wrap {
+.desktop .wrap {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -679,7 +679,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 1442px;
 }
 
-.wip .wrap-2 {
+.desktop .wrap-2 {
   align-items: center;
   display: flex;
   gap: 24px;
@@ -688,7 +688,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-15 {
+.desktop .text-wrapper-15 {
   color: var(--textsubdued-400);
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -702,7 +702,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 180px;
 }
 
-.wip .divider {
+.desktop .divider {
   align-self: stretch;
   height: 1px;
   min-width: 1440px;
@@ -710,7 +710,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   position: relative;
 }
 
-.wip .text-wrapper-16 {
+.desktop .text-wrapper-16 {
   color: var(--textsubdued-400);
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -723,7 +723,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 384px;
 }
 
-.wip .frame-21 {
+.desktop .frame-21 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -734,7 +734,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-17 {
+.desktop .text-wrapper-17 {
   color: var(--gray-900);
   font-family: var(--header-h3-font-family);
   font-size: var(--header-h3-font-size);
@@ -747,7 +747,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .button-2 {
+.desktop .button-2 {
   align-items: center;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(193.42, 199.25, 207.59, 0.02) 100%);
   border-radius: 4px;
@@ -761,13 +761,13 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .icon-instance-node {
+.desktop .icon-instance-node {
   height: 20px !important;
   min-width: 20px !important;
   position: relative !important;
 }
 
-.wip .label-2 {
+.desktop .label-2 {
   color: var(--textmuted-600);
   font-family: var(--label-small-font-family);
   font-size: var(--label-small-font-size);
@@ -782,7 +782,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .frame-22 {
+.desktop .frame-22 {
   align-items: flex-start;
   display: flex;
   gap: 16px;
@@ -791,7 +791,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 1320px;
 }
 
-.wip .frame-23 {
+.desktop .frame-23 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -799,14 +799,14 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .rectangle-3 {
+.desktop .rectangle-3 {
   height: 452px;
   min-width: 435px;
   object-fit: cover;
   position: relative;
 }
 
-.wip .frame-24 {
+.desktop .frame-24 {
   -webkit-backdrop-filter: blur(24px) brightness(100%);
   align-items: flex-start;
   backdrop-filter: blur(24px) brightness(100%);
@@ -821,7 +821,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 435px;
 }
 
-.wip .frame-25 {
+.desktop .frame-25 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -830,7 +830,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   position: relative;
 }
 
-.wip .label-initials {
+.desktop .label-initials {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -839,7 +839,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 258px;
 }
 
-.wip .text-wrapper-18 {
+.desktop .text-wrapper-18 {
   align-self: stretch;
   color: #0d0d12;
   font-family: "Inter", Helvetica;
@@ -852,7 +852,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   white-space: nowrap;
 }
 
-.wip .frame-26 {
+.desktop .frame-26 {
   align-items: flex-start;
   align-self: stretch;
   display: flex;
@@ -860,7 +860,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   position: relative;
 }
 
-.wip .current-bid {
+.desktop .current-bid {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -869,7 +869,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-19 {
+.desktop .text-wrapper-19 {
   color: var(--textnormal-500);
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -882,7 +882,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-20 {
+.desktop .text-wrapper-20 {
   color: var(--iconloud-900);
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -894,7 +894,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .ending-in {
+.desktop .ending-in {
   align-items: flex-end;
   display: flex;
   flex-direction: column;
@@ -904,7 +904,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .text-wrapper-21 {
+.desktop .text-wrapper-21 {
   color: var(--iconloud-900);
   font-family: "Inter", Helvetica;
   font-size: 16px;
@@ -917,7 +917,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: fit-content;
 }
 
-.wip .label-initials-2 {
+.desktop .label-initials-2 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -926,7 +926,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 147px;
 }
 
-.wip .label-initials-3 {
+.desktop .label-initials-3 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -935,7 +935,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 143px;
 }
 
-.wip .frame-27 {
+.desktop .frame-27 {
   background-color: #f1f3ff;
   border-radius: 20px;
   height: 573px;
@@ -944,7 +944,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   position: relative;
 }
 
-.wip .overlap-2 {
+.desktop .overlap-2 {
   height: 1261px;
   left: -745px;
   position: relative;
@@ -952,7 +952,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 1434px;
 }
 
-.wip .text-wrapper-22 {
+.desktop .text-wrapper-22 {
   color: #3660f9;
   font-family: "Inter", Helvetica;
   font-size: 28px;
@@ -966,7 +966,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 343px;
 }
 
-.wip .SEE-ALL-COLLECTIONS {
+.desktop .SEE-ALL-COLLECTIONS {
   height: 535px;
   left: 1029px;
   position: absolute;
@@ -975,7 +975,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 245px;
 }
 
-.wip .overlap-group-3 {
+.desktop .overlap-group-3 {
   height: 669px;
   left: -243px;
   position: relative;
@@ -983,7 +983,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 664px;
 }
 
-.wip .vector-2 {
+.desktop .vector-2 {
   height: 454px;
   left: 86px;
   position: absolute;
@@ -992,7 +992,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 492px;
 }
 
-.wip .text-wrapper-23 {
+.desktop .text-wrapper-23 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1005,7 +1005,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-153.74deg);
 }
 
-.wip .text-wrapper-24 {
+.desktop .text-wrapper-24 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1018,7 +1018,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-145.64deg);
 }
 
-.wip .text-wrapper-25 {
+.desktop .text-wrapper-25 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1031,7 +1031,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-136.81deg);
 }
 
-.wip .text-wrapper-26 {
+.desktop .text-wrapper-26 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1044,7 +1044,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-130.84deg);
 }
 
-.wip .text-wrapper-27 {
+.desktop .text-wrapper-27 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1057,7 +1057,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-125.56deg);
 }
 
-.wip .text-wrapper-28 {
+.desktop .text-wrapper-28 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1070,7 +1070,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-117.58deg);
 }
 
-.wip .text-wrapper-29 {
+.desktop .text-wrapper-29 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1083,7 +1083,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-109.85deg);
 }
 
-.wip .text-wrapper-30 {
+.desktop .text-wrapper-30 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1096,7 +1096,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-103.09deg);
 }
 
-.wip .text-wrapper-31 {
+.desktop .text-wrapper-31 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1109,7 +1109,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-96.54deg);
 }
 
-.wip .text-wrapper-32 {
+.desktop .text-wrapper-32 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1122,7 +1122,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-88.82deg);
 }
 
-.wip .text-wrapper-33 {
+.desktop .text-wrapper-33 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1135,7 +1135,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-80.15deg);
 }
 
-.wip .div-3 {
+.desktop .div-3 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1148,7 +1148,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-74.27deg);
 }
 
-.wip .text-wrapper-34 {
+.desktop .text-wrapper-34 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1161,7 +1161,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-69.36deg);
 }
 
-.wip .text-wrapper-35 {
+.desktop .text-wrapper-35 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1174,7 +1174,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-62.8deg);
 }
 
-.wip .text-wrapper-36 {
+.desktop .text-wrapper-36 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1187,7 +1187,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-55.59deg);
 }
 
-.wip .div-4 {
+.desktop .div-4 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1200,7 +1200,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-50.01deg);
 }
 
-.wip .text-wrapper-37 {
+.desktop .text-wrapper-37 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1213,7 +1213,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-44.89deg);
 }
 
-.wip .text-wrapper-38 {
+.desktop .text-wrapper-38 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1226,7 +1226,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-37.92deg);
 }
 
-.wip .text-wrapper-39 {
+.desktop .text-wrapper-39 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1239,7 +1239,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-30.72deg);
 }
 
-.wip .SEE-ALL-COLLECTIONS-2 {
+.desktop .SEE-ALL-COLLECTIONS-2 {
   height: 535px;
   left: 778px;
   position: absolute;
@@ -1248,7 +1248,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 245px;
 }
 
-.wip .overlap-3 {
+.desktop .overlap-3 {
   height: 643px;
   left: -205px;
   position: relative;
@@ -1256,7 +1256,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 588px;
 }
 
-.wip .vector-3 {
+.desktop .vector-3 {
   height: 387px;
   left: 33px;
   position: absolute;
@@ -1265,7 +1265,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 522px;
 }
 
-.wip .text-wrapper-40 {
+.desktop .text-wrapper-40 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1278,7 +1278,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(206.26deg);
 }
 
-.wip .text-wrapper-41 {
+.desktop .text-wrapper-41 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1291,7 +1291,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(214.36deg);
 }
 
-.wip .text-wrapper-42 {
+.desktop .text-wrapper-42 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1304,7 +1304,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(223.19deg);
 }
 
-.wip .text-wrapper-43 {
+.desktop .text-wrapper-43 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1317,7 +1317,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(229.16deg);
 }
 
-.wip .text-wrapper-44 {
+.desktop .text-wrapper-44 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1330,7 +1330,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(234.44deg);
 }
 
-.wip .text-wrapper-45 {
+.desktop .text-wrapper-45 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1343,7 +1343,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(242.42deg);
 }
 
-.wip .text-wrapper-46 {
+.desktop .text-wrapper-46 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1356,7 +1356,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(250.15deg);
 }
 
-.wip .text-wrapper-47 {
+.desktop .text-wrapper-47 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1369,7 +1369,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(256.91deg);
 }
 
-.wip .text-wrapper-48 {
+.desktop .text-wrapper-48 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1382,7 +1382,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(263.46deg);
 }
 
-.wip .text-wrapper-49 {
+.desktop .text-wrapper-49 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1395,7 +1395,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(271.18deg);
 }
 
-.wip .text-wrapper-50 {
+.desktop .text-wrapper-50 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1408,7 +1408,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(279.85deg);
 }
 
-.wip .div-5 {
+.desktop .div-5 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1421,7 +1421,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(285.73deg);
 }
 
-.wip .text-wrapper-51 {
+.desktop .text-wrapper-51 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1434,7 +1434,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(290.64deg);
 }
 
-.wip .text-wrapper-52 {
+.desktop .text-wrapper-52 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1447,7 +1447,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(297.2deg);
 }
 
-.wip .text-wrapper-53 {
+.desktop .text-wrapper-53 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1460,7 +1460,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-55.59deg);
 }
 
-.wip .div-6 {
+.desktop .div-6 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1473,7 +1473,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-50.01deg);
 }
 
-.wip .text-wrapper-54 {
+.desktop .text-wrapper-54 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1486,7 +1486,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-44.89deg);
 }
 
-.wip .text-wrapper-55 {
+.desktop .text-wrapper-55 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1499,7 +1499,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-37.92deg);
 }
 
-.wip .text-wrapper-56 {
+.desktop .text-wrapper-56 {
   color: var(--textdisabled-300);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1512,7 +1512,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-30.72deg);
 }
 
-.wip .group-2 {
+.desktop .group-2 {
   height: 857px;
   left: 128px;
   position: absolute;
@@ -1521,7 +1521,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 1143px;
 }
 
-.wip .overlap-4 {
+.desktop .overlap-4 {
   height: 891px;
   left: 11px;
   position: relative;
@@ -1529,7 +1529,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 1158px;
 }
 
-.wip .SEE-ALL-COLLECTIONS-3 {
+.desktop .SEE-ALL-COLLECTIONS-3 {
   height: 1045px;
   left: 329px;
   position: absolute;
@@ -1538,7 +1538,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 501px;
 }
 
-.wip .overlap-group-4 {
+.desktop .overlap-group-4 {
   height: 1446px;
   left: -504px;
   position: relative;
@@ -1546,7 +1546,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 1438px;
 }
 
-.wip .vector-4 {
+.desktop .vector-4 {
   height: 1059px;
   left: 225px;
   position: absolute;
@@ -1555,7 +1555,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 988px;
 }
 
-.wip .text-wrapper-57 {
+.desktop .text-wrapper-57 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1568,7 +1568,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(153.74deg);
 }
 
-.wip .text-wrapper-58 {
+.desktop .text-wrapper-58 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1581,7 +1581,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(145.64deg);
 }
 
-.wip .text-wrapper-59 {
+.desktop .text-wrapper-59 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1594,7 +1594,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(136.81deg);
 }
 
-.wip .text-wrapper-60 {
+.desktop .text-wrapper-60 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1607,7 +1607,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(130.84deg);
 }
 
-.wip .text-wrapper-61 {
+.desktop .text-wrapper-61 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1620,7 +1620,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(125.56deg);
 }
 
-.wip .text-wrapper-62 {
+.desktop .text-wrapper-62 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1633,7 +1633,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(117.58deg);
 }
 
-.wip .text-wrapper-63 {
+.desktop .text-wrapper-63 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1646,7 +1646,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(109.85deg);
 }
 
-.wip .text-wrapper-64 {
+.desktop .text-wrapper-64 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1659,7 +1659,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(103.09deg);
 }
 
-.wip .text-wrapper-65 {
+.desktop .text-wrapper-65 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1672,7 +1672,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(96.54deg);
 }
 
-.wip .text-wrapper-66 {
+.desktop .text-wrapper-66 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1685,7 +1685,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(88.82deg);
 }
 
-.wip .text-wrapper-67 {
+.desktop .text-wrapper-67 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1698,7 +1698,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(80.15deg);
 }
 
-.wip .div-7 {
+.desktop .div-7 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1711,7 +1711,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(74.27deg);
 }
 
-.wip .text-wrapper-68 {
+.desktop .text-wrapper-68 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1724,7 +1724,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(69.36deg);
 }
 
-.wip .text-wrapper-69 {
+.desktop .text-wrapper-69 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1737,7 +1737,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(62.8deg);
 }
 
-.wip .text-wrapper-70 {
+.desktop .text-wrapper-70 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1750,7 +1750,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(55.59deg);
 }
 
-.wip .div-8 {
+.desktop .div-8 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1763,7 +1763,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(50.01deg);
 }
 
-.wip .text-wrapper-71 {
+.desktop .text-wrapper-71 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1776,7 +1776,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(44.89deg);
 }
 
-.wip .text-wrapper-72 {
+.desktop .text-wrapper-72 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1789,7 +1789,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(37.92deg);
 }
 
-.wip .text-wrapper-73 {
+.desktop .text-wrapper-73 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1802,7 +1802,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(30.72deg);
 }
 
-.wip .SEE-ALL-COLLECTIONS-4 {
+.desktop .SEE-ALL-COLLECTIONS-4 {
   height: 252px;
   left: 23px;
   position: absolute;
@@ -1810,7 +1810,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 581px;
 }
 
-.wip .overlap-5 {
+.desktop .overlap-5 {
   height: 168px;
   left: 342px;
   position: absolute;
@@ -1818,7 +1818,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 201px;
 }
 
-.wip .overlap-6 {
+.desktop .overlap-6 {
   height: 154px;
   left: 35px;
   position: absolute;
@@ -1826,7 +1826,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 166px;
 }
 
-.wip .overlap-7 {
+.desktop .overlap-7 {
   height: 137px;
   left: 29px;
   position: absolute;
@@ -1834,7 +1834,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 137px;
 }
 
-.wip .text-wrapper-74 {
+.desktop .text-wrapper-74 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1847,7 +1847,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-304.64deg);
 }
 
-.wip .text-wrapper-75 {
+.desktop .text-wrapper-75 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1860,7 +1860,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-313.2deg);
 }
 
-.wip .text-wrapper-76 {
+.desktop .text-wrapper-76 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1873,7 +1873,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-322.51deg);
 }
 
-.wip .text-wrapper-77 {
+.desktop .text-wrapper-77 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1886,7 +1886,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-328.9deg);
 }
 
-.wip .text-wrapper-78 {
+.desktop .text-wrapper-78 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1899,7 +1899,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-334.56deg);
 }
 
-.wip .text-wrapper-79 {
+.desktop .text-wrapper-79 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1912,7 +1912,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(17.06deg);
 }
 
-.wip .text-wrapper-80 {
+.desktop .text-wrapper-80 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1925,7 +1925,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(8.91deg);
 }
 
-.wip .text-wrapper-81 {
+.desktop .text-wrapper-81 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1938,7 +1938,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(1.71deg);
 }
 
-.wip .text-wrapper-82 {
+.desktop .text-wrapper-82 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1951,7 +1951,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-5.31deg);
 }
 
-.wip .overlap-8 {
+.desktop .overlap-8 {
   height: 248px;
   left: 0;
   position: absolute;
@@ -1959,7 +1959,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 254px;
 }
 
-.wip .text-wrapper-83 {
+.desktop .text-wrapper-83 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1972,7 +1972,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-13.47deg);
 }
 
-.wip .overlap-9 {
+.desktop .overlap-9 {
   height: 236px;
   left: 0;
   position: absolute;
@@ -1980,7 +1980,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 218px;
 }
 
-.wip .text-wrapper-84 {
+.desktop .text-wrapper-84 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -1993,7 +1993,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-22.57deg);
 }
 
-.wip .div-9 {
+.desktop .div-9 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2006,7 +2006,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-28.91deg);
 }
 
-.wip .overlap-10 {
+.desktop .overlap-10 {
   height: 209px;
   left: 0;
   position: absolute;
@@ -2014,7 +2014,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   width: 170px;
 }
 
-.wip .text-wrapper-85 {
+.desktop .text-wrapper-85 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2027,7 +2027,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-34.29deg);
 }
 
-.wip .text-wrapper-86 {
+.desktop .text-wrapper-86 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2040,7 +2040,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-41.31deg);
 }
 
-.wip .text-wrapper-87 {
+.desktop .text-wrapper-87 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2053,7 +2053,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-48.87deg);
 }
 
-.wip .div-10 {
+.desktop .div-10 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2066,7 +2066,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-54.8deg);
 }
 
-.wip .text-wrapper-88 {
+.desktop .text-wrapper-88 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2079,7 +2079,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-60.36deg);
 }
 
-.wip .text-wrapper-89 {
+.desktop .text-wrapper-89 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2092,7 +2092,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-67.74deg);
 }
 
-.wip .text-wrapper-90 {
+.desktop .text-wrapper-90 {
   color: var(--textwhite);
   font-family: "Inter", Helvetica;
   font-size: 50px;
@@ -2105,7 +2105,7 @@ background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255,
   transform: rotate(-75.33deg);
 }
 
-.wip .button-3 {
+.desktop .button-3 {
   left: 1112px !important;
   position: absolute !important;
   top: 642px !important;
