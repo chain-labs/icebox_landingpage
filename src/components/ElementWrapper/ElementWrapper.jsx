@@ -7,7 +7,7 @@ import PropTypes from "prop-types";
 import React from "react";
 import "./style.css";
 
-export const ElementWrapper = ({ className, element = "/img/037-1.svg" }) => {
+export const ElementWrapper = ({ className, element = "/img/037.svg" }) => {
   return <img className={`element-wrapper ${className}`} alt="Element" src={element} />;
 };
 

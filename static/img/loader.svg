@@ -1,44 +1,44 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<mask id="mask0_286_6449" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<mask id="mask0_560_12568" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
 <rect width="24" height="24" fill="url(#pattern0)"/>
-<g clip-path="url(#clip0_286_6449)">
+<g clip-path="url(#clip0_560_12568)">
 <path d="M18.5 12C18.5 10.9742 18.2572 9.96303 17.7915 9.04906C17.3259 8.1351 16.6505 7.34432 15.8206 6.74139" stroke="#EBEBEB" stroke-width="3" stroke-linecap="round"/>
 </g>
-<g clip-path="url(#clip1_286_6449)">
+<g clip-path="url(#clip1_560_12568)">
 <path d="M18.5 12C18.5 10.9742 18.2572 9.96303 17.7915 9.04906C17.3259 8.1351 16.6505 7.34432 15.8206 6.74139" stroke="#EBEBEB" stroke-width="3" stroke-linecap="round"/>
 </g>
-<g clip-path="url(#clip2_286_6449)">
+<g clip-path="url(#clip2_560_12568)">
 <path d="M18.5 12C18.5 10.9742 18.2572 9.96303 17.7915 9.04906C17.3259 8.1351 16.6505 7.34432 15.8206 6.74139" stroke="#EBEBEB" stroke-width="3" stroke-linecap="round"/>
 </g>
-<g clip-path="url(#clip3_286_6449)">
+<g clip-path="url(#clip3_560_12568)">
 <path d="M18.5 12C18.5 10.9742 18.2572 9.96303 17.7915 9.04906C17.3259 8.1351 16.6505 7.34432 15.8206 6.74139" stroke="#EBEBEB" stroke-width="3" stroke-linecap="round"/>
 </g>
-<g clip-path="url(#clip4_286_6449)">
+<g clip-path="url(#clip4_560_12568)">
 <path d="M18.5 12C18.5 10.9742 18.2572 9.96303 17.7915 9.04906C17.3259 8.1351 16.6505 7.34432 15.8206 6.74139" stroke="#EBEBEB" stroke-width="3" stroke-linecap="round"/>
 </g>
 </mask>
-<g mask="url(#mask0_286_6449)">
-<rect x="0.00088501" width="24" height="24" fill="#EBEBEB"/>
+<g mask="url(#mask0_560_12568)">
+<rect x="0.000976562" y="-3.05176e-05" width="24" height="24" fill="#EBEBEB"/>
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_286_6449"/>
+<use xlink:href="#image0_560_12568"/>
 </pattern>
-<clipPath id="clip0_286_6449">
+<clipPath id="clip0_560_12568">
 <rect width="16" height="16" fill="white" transform="translate(4 4)"/>
 </clipPath>
-<clipPath id="clip1_286_6449">
+<clipPath id="clip1_560_12568">
 <rect width="16" height="16" fill="white" transform="translate(4 4)"/>
 </clipPath>
-<clipPath id="clip2_286_6449">
+<clipPath id="clip2_560_12568">
 <rect width="16" height="16" fill="white" transform="translate(4 4)"/>
 </clipPath>
-<clipPath id="clip3_286_6449">
+<clipPath id="clip3_560_12568">
 <rect width="16" height="16" fill="white" transform="translate(4 4)"/>
 </clipPath>
-<clipPath id="clip4_286_6449">
+<clipPath id="clip4_560_12568">
 <rect width="16" height="16" fill="white" transform="translate(4 4)"/>
 </clipPath>
-<image id="image0_286_6449" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAQSURBVHgBAQUA+v8AAAAAAAAFAAFkeJU4AAAAAElFTkSuQmCC"/>
+<image id="image0_560_12568" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAQSURBVHgBAQUA+v8AAAAAAAAFAAFkeJU4AAAAAElFTkSuQmCC"/>
 </defs>
 </svg>

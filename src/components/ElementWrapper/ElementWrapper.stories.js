@@ -8,6 +8,6 @@ export default {
 export const Default = {
   args: {
     className: {},
-    element: "/img/037-1.svg",
+    element: "/img/037.svg",
   },
 };
